@@ -51,7 +51,7 @@ Error generating stack: `+u.message+`
         py-[clamp(0.5rem,1.5vw,0.8rem)] px-[clamp(1.5rem,3.5vw,2rem)] rounded-full cursor-pointer
         hover:text-very-light-gray hover:bg-transparent hover:outline-2 hover:outline-very-light-gray
         mt-[clamp(1.5rem,0.5rem+5vw,5rem)] text-[clamp(0.9375rem,1.5vw,1.1rem)]
-        `,children:"Learn more"})}function ti({title:M,children:il,icon:$,color:r}){return ql.jsxs("article",{"aria-label":M,className:`flex flex-col  bg-${r}
+        `,children:"Learn More"})}function ti({title:M,children:il,icon:$,color:r}){return ql.jsxs("article",{"aria-label":M,className:`flex flex-col  bg-${r}
         p-[3rem] justify-between
         `,children:[ql.jsxs("div",{className:"flex flex-col gap-6",children:[ql.jsx("img",{src:$,alt:`${M} icon`,className:`w-12 h-8\r
                 xl:w-16 xl:h-9`}),ql.jsx("h2",{className:"text-3xl mt-6 mb-4 leading-none xl:text-4xl text-[clamp(1.875rem,2.5vw,2.25rem)]",children:M}),ql.jsx("p",{className:`text-transparent-white leading-relaxed\r
