@@ -6,7 +6,8 @@ import luxuryIcon from "./assets/images/icon-luxury.svg"
 function App() {
 
   return (
-    <main className="p-5">
+    <main className="px-5">
+      <h1 className="sr-only">Car Types Preview</h1>
       <section aria-label="Vehicle Categories" className="card-wrapper
         max-w-[57.5rem]
       ">
