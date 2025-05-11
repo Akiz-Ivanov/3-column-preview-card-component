@@ -9,7 +9,7 @@ export default function LearnMoreBtn({ textColor }) {
         mt-[clamp(1.5rem,0.5rem+5vw,5rem)] text-[clamp(0.9375rem,1.5vw,1.1rem)]
         `}     
         >
-            Learn more
+            Learn More
         </button>
     )
 }
